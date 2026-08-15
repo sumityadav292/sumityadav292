@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @sumityadav292
-- 👀 I’m interested in learning 
-- 🌱 I’m currently learning B-TECH...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-# 👋 Hi, I am Sumit Yadav
 
-<!---
-sumityadav292/sumityadav292 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 B.Tech CSE Graduate | Web Developer
+🌱 Currently improving my skills in React.js & MERN Stack
+🚀 Interested in building real-world web applications
+🤝 Open to collaboration and new opportunities
+
+ 🛠️ Skills
+
+HTML • CSS • JavaScript • React.js • Node.js • Express.js • MongoDB • SQL • Git • GitHub
+
+📫 Portfolio: [https://sumityadavportfolio1.netlify.app/](url)
+🔗 GitHub: [https://github.com/sumityadav292](url)
