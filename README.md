@@ -1,4 +1,4 @@
--# 👋 Hi, I am Sumit Yadav
+👋 Hi, I am Sumit Yadav
 
 💻 B.Tech CSE Graduate | Web Developer
 🌱 Currently improving my skills in React.js & MERN Stack
